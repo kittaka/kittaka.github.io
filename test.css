@@ -13,7 +13,7 @@ header {
 
 ul{
         align-content: center;
-        padding:15px 10px;
+        
 }
 
 
@@ -21,7 +21,7 @@ li {
         
         list-style: none;
         float: left;
-        
+        margin:15px 10px;
         
 }
     body {
