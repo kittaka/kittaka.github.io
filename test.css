@@ -15,7 +15,7 @@ header {
         color:#0000FF;
       }
     
-    li {
+.header-list  {
             list-style:none;
             float:left;
             padding: 10px;
