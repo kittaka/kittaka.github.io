@@ -6,7 +6,7 @@ header {
     }
 
     .header-list  {
-        
+        height:50px;
         background-color: blueviolet;
     
 }
