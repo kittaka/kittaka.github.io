@@ -12,8 +12,10 @@ header {
 }
 
 li {
+        align-content: center;
         list-style: none;
         float: left;
+        padding:15px 10px;
         
 }
     body {
