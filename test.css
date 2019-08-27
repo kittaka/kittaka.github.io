@@ -1,5 +1,5 @@
 header {
-        height:200;
+        height:200px;
         text-align: center;
         background-color:lightcyan
         
@@ -23,3 +23,6 @@ header {
             padding: 10px;
             background-color: blueviolet;
     }
+li {
+        list-style: none;
+}
