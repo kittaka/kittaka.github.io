@@ -1,5 +1,5 @@
 header {
-        height:200px;
+        height:150px;
         text-align: center;
         background-color:lightcyan
         
@@ -7,13 +7,14 @@ header {
 
     .header-list  {
         
-    padding: 10px;
-    background-color: blueviolet;
+        background-color: blueviolet;
+    
 }
 
 li {
         list-style: none;
         float: left;
+        
 }
     body {
             background-color:#FFFFCC;
