@@ -6,12 +6,15 @@ header {
     }
 
     .header-list  {
-        list-style: none;
-    float: left;
+        
     padding: 10px;
     background-color: blueviolet;
 }
 
+li {
+        list-style: none;
+        float: left;
+}
     body {
             background-color:#FFFFCC;
             margin:10px 150px;
