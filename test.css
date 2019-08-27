@@ -11,11 +11,17 @@ header {
     
 }
 
-li {
+ul{
         align-content: center;
+        padding:15px 10px;
+}
+
+
+li {
+        
         list-style: none;
         float: left;
-        padding:15px 10px;
+        
         
 }
     body {
