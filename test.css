@@ -4,7 +4,14 @@ header {
         background-color:lightcyan
         
     }
-    
+
+    .header-list  {
+        list-style: none;
+    float:left;
+    padding: 10px;
+    background-color: blueviolet;
+}
+
     body {
             background-color:#FFFFCC;
             margin:150px 10px;
@@ -17,9 +24,4 @@ header {
         color:#0000FF;
       }
     
-.header-list  {
-                list-style: none;
-            float:left;
-            padding: 10px;
-            background-color: blueviolet;
-    }
+
