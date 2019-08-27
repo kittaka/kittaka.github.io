@@ -1,11 +1,13 @@
 header {
+        height:200;
         text-align: center;
         background-color:lightcyan
+        
     }
     
     body {
             background-color:#FFFFCC;
-            margin-left:150px;
+            margin:150px 10px;
          }
     h1 {
             color:#000000;
@@ -16,7 +18,7 @@ header {
       }
     
 .header-list  {
-            list-style:none;
+            
             float:left;
             padding: 10px;
             background-color: blueviolet;
