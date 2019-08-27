@@ -8,3 +8,8 @@ h1 {
 p {
     color:#0000FF;
   }
+
+li{
+        list-style:none;
+        float:left;
+}
